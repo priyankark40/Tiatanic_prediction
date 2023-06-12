@@ -1,1 +1,1 @@
-# Tiatanic_prediction
+# Titanic_prediction
